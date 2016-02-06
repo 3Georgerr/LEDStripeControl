@@ -9,9 +9,9 @@ using System.Resources;
 [assembly: AssemblyTitle("LEDStripeControl")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MFC Software")]
+[assembly: AssemblyCompany("MFC Software s.r.o.")]
 [assembly: AssemblyProduct("LEDStripeControl")]
-[assembly: AssemblyCopyright("Copyright © 2012, MFC Software")]
+[assembly: AssemblyCopyright("Copyright © 2012-2016, MFC Software s.r.o.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,5 +22,5 @@ using System.Resources;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
